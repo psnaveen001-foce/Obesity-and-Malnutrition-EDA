@@ -54,7 +54,6 @@ This enables:
 
 * A clear separation between data storage and visualization layers.
 
-* Example SQL pattern used for analytics:
 
 # 📊 4. SQL Query Library
 
